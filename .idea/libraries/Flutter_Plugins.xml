@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../flutter_windows_1.22.4-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_screen_recording-1.1.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_windows_1.22.4-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_plugin-0.4.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_windows_1.22.4-stable/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-3.0.3" />
+      <root url="file://$PROJECT_DIR$/../../flutter_windows_1.22.4-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.0.1+1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
